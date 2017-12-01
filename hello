@@ -2,22 +2,25 @@
 
 int main (void)
 {
-franz er grim
+  int sprog;
+  
+  printf("Choose language. (1) Dansk (2) Arabisk (3) Türk (4) Francais (5) Volapyk");
+  scanf("%d", sprog);
   switch(int Sprog)
   {
     Case 1:
-     Funktion(1);
+      Funktion(1);
       Break;
     
    Case 2:
       Funktion(2);
       Break;
     
-    Case 3:
+   Case 3:
       Funktion(3);
       Break;
 
-  Case 4:
+   Case 4:
       Funktion(4);
       Break;
     
